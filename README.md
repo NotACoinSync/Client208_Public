@@ -19,4 +19,4 @@ void FuckMaple()
 ```
 
 ## Launch Arguments
-`MapleStory.exe WebStart SomeWebTokenHereFromALauncher`
+`MapleStory.exe WebStart admin 8.31.99.141 8484`
